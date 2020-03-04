@@ -10,3 +10,6 @@ http://www.oracle.com/us/products/applications/aia-11g-performance-tuning-191523
 
 Performance Tuning for Oracle Business Process Management Suite 11g 
 https://www.oracle.com/technetwork/middleware/bpm/learnmore/bpm11gperftuning-1912340.pdf
+
+Tuning G1GC For SOA
+https://www.ateam-oracle.com/tuning-g1gc-for-soa
