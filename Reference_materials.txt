@@ -3,3 +3,10 @@ https://docs.oracle.com/en/middleware/fusion-middleware/12.2.1.3/wlstg/monitorin
 
 WebLogic Server 12.2.1 Compatibility with Previous Releases
 https://docs.oracle.com/middleware/1221/wls/WLUPG/compat.htm#WLUPG650
+
+Oracle AIA 11g Performance Tuning on Oracle’s SPARC T4 Servers
+A Guide for Tuning Pre-Built Integrations on Oracle AIA 11g
+http://www.oracle.com/us/products/applications/aia-11g-performance-tuning-1915233.pdf
+
+Performance Tuning for Oracle Business Process Management Suite 11g 
+https://www.oracle.com/technetwork/middleware/bpm/learnmore/bpm11gperftuning-1912340.pdf
